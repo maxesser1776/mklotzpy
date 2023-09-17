@@ -1,2 +1,5 @@
 # Outputs from utilities
+*.EXE
+*.C
 *.OUT
+*.TXT
