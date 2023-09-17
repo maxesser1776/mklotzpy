@@ -10,7 +10,7 @@ BELT
 BEND  
 BOLTCIRC  
 BUCKET  
-CAM  
+CAM - Converted Most of the Logic but am getting a "ZeroDivisionError: Float division by zero on line 125 
 CHANGE  
 CHORD  
 CMITER  

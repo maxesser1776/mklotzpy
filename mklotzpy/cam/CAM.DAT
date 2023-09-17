@@ -1,8 +1,9 @@
 CAM DESIGN
-TYPE OF FOLLOWER MOTION: 1
-TYPE OF CAM FOLLOWER: 1
-Base Circle Radius: 1.625
-Cam Rotation Angle: 45.0 degrees
+TYPE OF FOLLOWER MOTION: 2
+TYPE OF CAM FOLLOWER: 2
+Follower Roller Radius: 0.25
+Base Circle Radius: 1.0
+Cam Rotation Angle: 120.0 degrees
 
 Angle is measured from highest point of cam.
 Radius & x,y coordinates measured from center of cam rotation.
